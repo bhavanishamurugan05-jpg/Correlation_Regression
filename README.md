@@ -20,6 +20,9 @@ If y represents the dependent variable and x the independent variable, this rela
 ![image](https://user-images.githubusercontent.com/104613195/168225866-ac8f6610-bdc3-4ac2-a24e-2b24ba08e189.png)
 
 # Program 
+NAME : BHAVANISHA M
+REG NO.: 212225230034
+SLOT NO .: T1 I5
 ```
 import numpy as np 
 import math 
@@ -71,3 +74,5 @@ plt.show()
 # Output 
 
 ![WhatsApp Image 2026-03-10 at 20 24 38](https://github.com/user-attachments/assets/2716a288-72fa-4924-bd23-7be8388f1b38)
+
+https://github.com/bhavanishamurugan05-jpg/Correlation_Regression.git

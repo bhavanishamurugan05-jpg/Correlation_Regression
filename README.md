@@ -75,4 +75,5 @@ plt.show()
 
 ![WhatsApp Image 2026-03-10 at 20 24 38](https://github.com/user-attachments/assets/2716a288-72fa-4924-bd23-7be8388f1b38)
 
+ 
 https://github.com/bhavanishamurugan05-jpg/Correlation_Regression.git
